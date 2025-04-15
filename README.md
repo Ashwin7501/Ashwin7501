@@ -41,7 +41,7 @@
 #### ✅ [Employee Management System](https://github.com/Ashwin7501/Employee_Management_System)
 > Full-stack CRUD app with React, Node.js, MySQL, Express, JWT, and secure role-based routing.
 
-#### 🌦️ [Weather App](https://weather-app07501.netlify.app/)
+#### 🌦️ [Weather App (Live)](https://weather-app07501.netlify.app/) | [GitHub Repo](https://github.com/Ashwin7501/weather_app)
 > A simple React app using the OpenWeatherMap API to show real-time weather by city.
 
 #### 🔗 [URL Shortener](https://github.com/Ashwin7501/Url-shortner)
@@ -50,18 +50,19 @@
 #### 🧩 [Sudoku Solver](https://github.com/Ashwin7501/Sudoku_solver)
 > Python + Backtracking algorithm to solve any valid Sudoku board.
 
-#### 🍎 Fruit Quality Detection (Final Year Project)
+#### 🍎 [Fruit Quality Detection](https://github.com/Ashwin7501/Fruit_Quality_CNN)
 > CNN-based model for fruit classification with 97% accuracy. Includes hardware segregation.
 
 ---
 
 ### 🤖 LLM & AI Projects
 
+- 🧠 Built LLM-powered chatbots for document understanding  
+- 🗂️ Developed a Multi-PDF Chat System to allow querying across multiple PDF documents using embeddings and vector databases  
+- 💬 Applied prompt engineering to fine-tune GPT-like models for task-specific use cases  
+- 📺 Implemented YouTube Comment Sentiment Analysis using NLP and visualized the data using graphs  
+- 🎬 Created a Machine Learning-based Movie Recommendation System using collaborative and content-based filtering  
 
-- 🗂️ Developed a **Multi-PDF Chat System** to allow querying across multiple PDF documents using embeddings and vector databases  
-- 💬 Applied **prompt engineering** to fine-tune GPT-like models for task-specific use cases  
-- 📺 Implemented **YouTube Comment Sentiment Analysis** to detect viewer opinions using NLP and visualized them with graphs  
-- 🎬 Created a **Machine Learning-based Movie Recommendation System** using collaborative filtering and content-based filtering  
 
 ---
 
