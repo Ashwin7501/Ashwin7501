@@ -9,7 +9,7 @@
 
 ---
 
-🎯 **Software Developer | Full-Stack Engineer | LLM Enthusiast**
+🎯 **Software Developer **
 
 📌 Currently a **Software Engineer Trainee** at **Soptimize Consultancy Services**  
 💼 Formerly at **BNP Paribas** as an **Associate Software Engineer**, contributing to report automation  
