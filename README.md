@@ -10,8 +10,8 @@
 ---
 
 🎯 **Software Developer **
-
-📌 Currently a **Software Engineer Trainee** at **Soptimize Consultancy Services**  
+Currently a MTECH CSE Student at Manipal Institute of Technology Bangalore
+📌 Formerly a **Software Engineer Trainee** at **Soptimize Consultancy Services**  
 💼 Formerly at **BNP Paribas** as an **Associate Software Engineer**, contributing to report automation  
 🎓 BTech in Electronics & Communication Engineering from **PES University**  
 🚀 Passionate about building intelligent, scalable applications and integrating LLMs into real-world use cases  
