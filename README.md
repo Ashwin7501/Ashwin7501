@@ -1,4 +1,4 @@
-<h1 align="center">R. Ashwin — Building Intelligent Systems, One Stack at a Time ⚙️🤖</h1>
+<h1 align="center">Hi there! I'm R. Ashwin </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashwin7501&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwin7501" />
