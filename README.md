@@ -52,7 +52,7 @@ Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to
 - Implemented **JWT-based authentication**, hashed sensitive data, and designed protected routes for secure access .  
 - Built a responsive UI powered by **Axios** for seamless API integration .  
 
-🔗 Repo: [Employee_Management_System](https://github.com/Ashwin7501/Employee_Management_System)
+🔗 Repo: [Employee_Management_System](https://github.com/Ashwin7501/my-fullstack-app_employee_regsitration)
 
 ---
 
@@ -63,7 +63,7 @@ Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to
 - Deployed on Netlify for instant public access.  
 
 🔗 Live: https://weather-app07501.netlify.app/  
-🔗 Repo: [weather_app](https://github.com/Ashwin7501/weather_app)
+🔗 
 
 ---
 
