@@ -8,23 +8,23 @@
 
 ### 👨‍💻 Who Am I?
 
-A **Software Developer** turned **M.Tech CSE student** at **Manipal Institute of Technology, Bengaluru**, working at the intersection of **full‑stack engineering, data workflows, and Large Language Models (LLMs)** [file:2].  
+A **Software Developer** turned **M.Tech CSE student** at **Manipal Institute of Technology, Bengaluru**, working at the intersection of **full‑stack engineering, data workflows, and Large Language Models (LLMs)** .  
 
-Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to **regulatory reporting pipelines** using **Alteryx and SQL**, ensuring accurate and timely Local Regulatory Reports across multiple regions [file:2]. At **Sophtimize Consultancy Services**, built production-style full‑stack apps and later worked on **training LLMs and scalable React.js frontends** [file:2].
+Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to **regulatory reporting pipelines** using **Alteryx and SQL**, ensuring accurate and timely Local Regulatory Reports across multiple regions . At **Sophtimize Consultancy Services**, built production-style full‑stack apps and later worked on **training LLMs and scalable React.js frontends** .
 
-- 🎓 **Current:** M.Tech in Computer Science & Engineering (2025–Present) [file:2]  
-- 🎓 **Past:** B.Tech in Electronics & Communication Engineering, PES University [file:2]  
+- 🎓 **Current:** M.Tech in Computer Science & Engineering (2025–Present)   
+- 🎓 **Past:** B.Tech in Electronics & Communication Engineering, PES University   
 - 💡 **Interests:** LLMs, prompt engineering, scalable web apps, data-intensive workflows, and practical AI.
 
 ---
 
 ### 🛠️ Tech Stack at a Glance
 
-**Languages:** Java (Core & Advanced), Python, JavaScript, SQL [file:2]  
-**Backend:** Node.js, Express, REST APIs [file:2]  
-**Frontend:** React.js, HTML, CSS [file:2]  
-**Data & Automation:** Alteryx, Streamlit, Hugging Face (DistilBERT) [file:2]  
-**Other:** Git, Postman, Linux, basic AWS, JWT, MySQL [file:2]
+**Languages:** Java (Core & Advanced), Python, JavaScript, SQL   
+**Backend:** Node.js, Express, REST APIs   
+**Frontend:** React.js, HTML, CSS   
+**Data & Automation:** Alteryx, Streamlit, Hugging Face (DistilBERT)   
+**Other:** Git, Postman, Linux, basic AWS, JWT, MySQL 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,react,nodejs,express,html,css,sql,git,linux,aws" />
@@ -37,9 +37,9 @@ Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to
 #### 📺 YouTube Comment Analyzer  
 > LLM + NLP + Visualization
 
-- Built a **Streamlit web app** to analyze YouTube comments using **NLP and LLMs** [file:2].  
-- Integrated **YouTube Data API** and **GPT‑3.5** for question detection and feedback categorization [file:2].  
-- Performed **sentiment analysis** with **Hugging Face DistilBERT** and visualized insights for creators [file:2].  
+- Built a **Streamlit web app** to analyze YouTube comments using **NLP and LLMs** .  
+- Integrated **YouTube Data API** and **GPT‑3.5** for question detection and feedback categorization .  
+- Performed **sentiment analysis** with **Hugging Face DistilBERT** and visualized insights for creators .  
 
 🔗 Repo: `github.com/Ashwin7501/YouTube_Comment_Analyzer` (update your README link accordingly)
 
@@ -48,9 +48,9 @@ Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to
 #### ✅ Employee Management System  
 > Secure Full‑Stack Application
 
-- Developed a full‑stack **Employee Management System** using **React, Node.js, Express, and MySQL** [file:2].  
-- Implemented **JWT-based authentication**, hashed sensitive data, and designed protected routes for secure access [file:2].  
-- Built a responsive UI powered by **Axios** for seamless API integration [file:2].  
+- Developed a full‑stack **Employee Management System** using **React, Node.js, Express, and MySQL** .  
+- Implemented **JWT-based authentication**, hashed sensitive data, and designed protected routes for secure access .  
+- Built a responsive UI powered by **Axios** for seamless API integration .  
 
 🔗 Repo: [Employee_Management_System](https://github.com/Ashwin7501/Employee_Management_System)
 
@@ -59,7 +59,7 @@ Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to
 #### 🌦️ Weather App  
 > Simple, Clean, Useful
 
-- Created a **React** app that consumes the **OpenWeatherMap API** to display weather details for user-entered locations [file:2].  
+- Created a **React** app that consumes the **OpenWeatherMap API** to display weather details for user-entered locations .  
 - Deployed on Netlify for instant public access.  
 
 🔗 Live: https://weather-app07501.netlify.app/  
@@ -70,7 +70,7 @@ Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to
 #### 🧩 Sudoku Solver  
 > Algorithms in Action
 
-- Implemented a **Python-based Sudoku solver** using the **backtracking algorithm** to solve any valid board configuration [file:2].  
+- Implemented a **Python-based Sudoku solver** using the **backtracking algorithm** to solve any valid board configuration .  
 - Designed as a clean, focused algorithmic project demonstrating problem-solving depth.  
 
 🔗 Repo: [Sudoku_solver](https://github.com/Ashwin7501/Sudoku_solver)
@@ -79,11 +79,11 @@ Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to
 
 ### 🎓 Certifications & Continuous Learning
 
-- **Linux AWS DevOps**, Apponix Technologies (Sept 2025) [file:2]  
-- **Alteryx Bootcamp**, Udemy (Dec 2023) [file:2]  
-- **Advanced Java & Core Java**, Besant Technologies (Feb 2023) [file:2]  
-- **Front-End (HTML, CSS, JS) & React**, Besant Technologies (Dec 2022) [file:2]  
-- **Python Full Stack**, Besant Technologies (Dec 2022) [file:2]  
+- **Linux AWS DevOps**, Apponix Technologies (Sept 2025)   
+- **Alteryx Bootcamp**, Udemy (Dec 2023)   
+- **Advanced Java & Core Java**, Besant Technologies (Feb 2023)   
+- **Front-End (HTML, CSS, JS) & React**, Besant Technologies (Dec 2022)   
+- **Python Full Stack**, Besant Technologies (Dec 2022)   
 
 ---
 
