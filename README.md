@@ -41,7 +41,7 @@ Previously, as an **Associate Software Engineer at BNP Paribas**, contributed to
 - Integrated **YouTube Data API** and **GPT‑3.5** for question detection and feedback categorization .  
 - Performed **sentiment analysis** with **Hugging Face DistilBERT** and visualized insights for creators .  
 
-🔗 Repo: `github.com/Ashwin7501/YouTube_Comment_Analyzer` (update your README link accordingly)
+🔗 Repo: `github.com/Ashwin7501/YouTube_Comment_Analyzer` 
 
 ---
 
